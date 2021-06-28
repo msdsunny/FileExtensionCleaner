@@ -11,4 +11,4 @@ Technlogy Used
 
 ### Project Screenshot
 
-<img src="app.JPG" alt="logo"/>
+<img src="app.JPG" alt="logo" align="center"/>
